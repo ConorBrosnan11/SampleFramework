@@ -1,0 +1,23 @@
+C:\Users\conor.brosnan\Desktop\SampleFramework\TZL\TZL Test\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\conor.brosnan\Desktop\SampleFramework\TZL\TZL Test\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\conor.brosnan\Desktop\SampleFramework\TZL\TZL Test\bin\Debug\nunit.engine.dll
+C:\Users\conor.brosnan\Desktop\SampleFramework\TZL\TZL Test\bin\Debug\nunit.engine.api.dll
+C:\Users\conor.brosnan\Desktop\SampleFramework\TZL\TZL Test\bin\Debug\nunit.engine.core.dll
+C:\Users\conor.brosnan\Desktop\SampleFramework\TZL\TZL Test\bin\Debug\TZL Test.dll
+C:\Users\conor.brosnan\Desktop\SampleFramework\TZL\TZL Test\bin\Debug\TZL Test.pdb
+C:\Users\conor.brosnan\Desktop\SampleFramework\TZL\TZL Test\bin\Debug\nunit.framework.dll
+C:\Users\conor.brosnan\Desktop\SampleFramework\TZL\TZL Test\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\conor.brosnan\Desktop\SampleFramework\TZL\TZL Test\bin\Debug\TZL.Core.dll
+C:\Users\conor.brosnan\Desktop\SampleFramework\TZL\TZL Test\bin\Debug\TZL.Repository.dll
+C:\Users\conor.brosnan\Desktop\SampleFramework\TZL\TZL Test\bin\Debug\WebDriver.dll
+C:\Users\conor.brosnan\Desktop\SampleFramework\TZL\TZL Test\bin\Debug\WebDriver.Support.dll
+C:\Users\conor.brosnan\Desktop\SampleFramework\TZL\TZL Test\bin\Debug\TZL.Core.pdb
+C:\Users\conor.brosnan\Desktop\SampleFramework\TZL\TZL Test\bin\Debug\TZL.Repository.pdb
+C:\Users\conor.brosnan\Desktop\SampleFramework\TZL\TZL Test\bin\Debug\nunit.framework.xml
+C:\Users\conor.brosnan\Desktop\SampleFramework\TZL\TZL Test\bin\Debug\WebDriver.xml
+C:\Users\conor.brosnan\Desktop\SampleFramework\TZL\TZL Test\bin\Debug\WebDriver.Support.xml
+C:\Users\conor.brosnan\Desktop\SampleFramework\TZL\TZL Test\obj\Debug\TZL Test.csprojAssemblyReference.cache
+C:\Users\conor.brosnan\Desktop\SampleFramework\TZL\TZL Test\obj\Debug\TZL Test.csproj.CoreCompileInputs.cache
+C:\Users\conor.brosnan\Desktop\SampleFramework\TZL\TZL Test\obj\Debug\TZL Test.csproj.CopyComplete
+C:\Users\conor.brosnan\Desktop\SampleFramework\TZL\TZL Test\obj\Debug\TZL Test.dll
+C:\Users\conor.brosnan\Desktop\SampleFramework\TZL\TZL Test\obj\Debug\TZL Test.pdb
